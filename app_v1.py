@@ -141,7 +141,7 @@ class BloodSugarWidget:
         button_frame = tk.Frame(self.canvas, bg='#2C3E50')
         button_frame.place(x=width-90, y=2, width=90, height=30)
 
-        minimize_button = tk.Button(button_frame, text="—", command=self.minimize_widget,
+        minimize_button = tk.Button(button_frame, text="-", command=self.minimize_widget,
                                     bg='#2C3E50', fg='#ECF0F1', font=("Arial", 12, "bold"),
                                     bd=0, highlightthickness=0, padx=5, pady=0)
         minimize_button.pack(side=tk.LEFT, padx=(0, 5))
