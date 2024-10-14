@@ -1,7 +1,7 @@
 # dexcom_desktop_widget
 Desktop display for live Dexcom readings.
 
-Enter your Dexcom/Clarity login credentials and receive live blood sugar updates on your desktop.
+Run script from command line, enter your Dexcom/Clarity login credentials, and receive live blood sugar updates on your desktop.
 
 Feel free to adjust code to better reflect your personal blood sugar ranges. 
 
