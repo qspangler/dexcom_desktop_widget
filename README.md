@@ -13,7 +13,7 @@ Currently working on getting this to be a standalone, downloadable app as oppose
 
 Demo Images:
 
-![image](https://github.com/user-attachments/assets/84ddc812-c8c1-43fa-87df-4fc48d7adacc)
+![image](https://github.com/user-attachments/assets/b73112ef-e625-4048-a9b5-f5be05cab933)
 
 
 ![image](https://github.com/user-attachments/assets/67c7cc96-b7ea-44af-96ee-19bec989f8de)
